@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-hipdungeon"
   spec.version       = "0.1.0"
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
-  spec.license       = "TODO: Add a license"
+  spec.authors       = ["Jimmy Briggs"]
+  spec.email         = ["jimmy.briggs.code@gmail.com"]
+  spec.description   = "A dungeon game for hipchat"
+  spec.summary       = "A dungeon game for hipchat"
+  spec.homepage      = "https://github.com/TigerJ/lita-hipdungeon"
+  spec.license       = "open"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
   spec.files         = `git ls-files`.split($/)
